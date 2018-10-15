@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43885608894",
+    "firebase_url": "https://mysql2-160ad.firebaseio.com",
+    "project_id": "mysql2-160ad",
+    "storage_bucket": "mysql2-160ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43885608894:android:e5c1bc71bed12823",
+        "android_client_info": {
+          "package_name": "moshfiqrony.com.mysql2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43885608894-rmgku5o7l3arap864aesfgpn7bu499q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "moshfiqrony.com.mysql2",
+            "certificate_hash": "3f5449db57b9d9e708b017f1484645a3e989ba55"
+          }
+        },
+        {
+          "client_id": "43885608894-2hjbu8sdfsngcj1qusl4lrcifh607ief.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFzN79y9J593kyHCVQnev0OO7ELoDqd5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43885608894-2hjbu8sdfsngcj1qusl4lrcifh607ief.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
